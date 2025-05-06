@@ -1,0 +1,3 @@
+Zmiana salda: 100000.0 PLN
+Zakup: rower, 2 szt. po 600.0 PLN
+Zakup: zeszyt, 100 szt. po 5.0 PLN
